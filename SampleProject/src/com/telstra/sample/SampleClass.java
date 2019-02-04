@@ -9,6 +9,8 @@ public class SampleClass {
 		System.out.println("Changes added in branch");
 		
 		System.out.println("Added a new line");
+		
+		System.out.println("Line 1");
 	}
 
 }
