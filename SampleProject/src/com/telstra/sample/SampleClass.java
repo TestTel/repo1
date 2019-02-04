@@ -11,6 +11,8 @@ public class SampleClass {
 		System.out.println("Added a new line");
 		
 		System.out.println("Line 1");
+		
+		System.out.println("Line 2 added");
 	}
 
 }
