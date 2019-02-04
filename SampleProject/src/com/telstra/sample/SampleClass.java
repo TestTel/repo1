@@ -6,7 +6,7 @@ public class SampleClass {
 		// TODO Auto-generated method stub
 		System.out.println("Add a line of code");
 		
-		System.out.println("Change added in branch");
+		System.out.println("Changes added in branch");
 	}
 
 }
