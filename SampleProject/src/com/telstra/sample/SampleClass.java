@@ -7,6 +7,8 @@ public class SampleClass {
 		System.out.println("Add a line of code");
 		
 		System.out.println("Change added in branch");
+		
+		System.out.println("Added a new line");
 	}
 
 }
