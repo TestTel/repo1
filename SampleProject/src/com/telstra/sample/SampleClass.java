@@ -15,6 +15,8 @@ public class SampleClass {
 		System.out.println("Line 2 added");
 		
 		System.out.println("Line new.");
+		
+		System.out.println("A line from web");
 	}
 
 }
