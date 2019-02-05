@@ -13,6 +13,8 @@ public class SampleClass {
 		System.out.println("Line 1");
 		
 		System.out.println("Line 2 added");
+		
+		System.out.println("Line new.");
 	}
 
 }
